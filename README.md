@@ -33,15 +33,12 @@ Email-Spam-Classifier/
 
 1. Clone the repository:
    git clone https://github.com/Sandeep5624/Email-Spam-Classifier.git
+   
    cd Email-Spam-Classifier
+
 Install dependencies:
-
-
 pip install -r requirements.txt
-
-
 Run the Streamlit app:
-
 streamlit run app.py
 
 Enter an email text in the input box, and the model will predict whether it is Spam or Not Spam ✅
