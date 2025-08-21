@@ -31,10 +31,6 @@ Email-Spam-Classifier/
 │-- streamlit.txt # Dependencies
 │-- README.md # Project Documentation
 
-1. Clone the repository:
-   git clone https://github.com/Sandeep5624/Email-Spam-Classifier.git
-   
-   cd Email-Spam-Classifier
 
 Install dependencies:
 
