@@ -37,8 +37,11 @@ Email-Spam-Classifier/
    cd Email-Spam-Classifier
 
 Install dependencies:
+
 pip install -r requirements.txt
+
 Run the Streamlit app:
+
 streamlit run app.py
 
 Enter an email text in the input box, and the model will predict whether it is Spam or Not Spam ✅
